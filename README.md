@@ -1,2 +1,2 @@
-# .github
-README profile
+Прошивка CatOs
+by CatDevCode.
